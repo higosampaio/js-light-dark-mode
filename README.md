@@ -6,4 +6,4 @@
 
 <p align="center">A great example of a dark mode application with HTML, CSS e JavaScript.</p>
 
-![Farmers Market Finder Demo](img/screen.gif)
+![Farmers Market Finder Demo](img/screen-recording.gif)
