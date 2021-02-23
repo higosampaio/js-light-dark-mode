@@ -6,5 +6,4 @@
 
 <p align="center">A great example of a dark mode application with HTML, CSS e JavaScript.</p>
 
-<img src="img/screenshot-light.png" alt="Screenshot Light">
-<img src="img/screenshot-dark.png" alt="Screenshot Dark">
+![Farmers Market Finder Demo](img/screen.gif)
