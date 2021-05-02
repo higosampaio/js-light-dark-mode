@@ -7,5 +7,3 @@
 <h1 align="center">Light Dark Mode</h1>
 
 <p align="center">A great example of a dark mode application with HTML, CSS e JavaScript.</p>
-
-![Farmers Market Finder Demo](img/screen-recording.gif)
