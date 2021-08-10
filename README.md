@@ -4,6 +4,6 @@
   <img alt="JavaScript Badge" src="https://img.shields.io/badge/-javascript-important?style=for-the-badge&color=F7DF1E&logo=javascript&logoColor=black" />
 </p>
 
-<h1 align="center">Light Dark Mode</h1>
+<h3 align="center">Light Dark Mode</h3>
 
 <p align="center">A great example of a dark mode application with HTML, CSS e JavaScript.</p>
